@@ -1,0 +1,191 @@
+a{
+    text-decoration: none;
+}
+ul li{
+    list-style-type: none;
+}
+.container{
+    background-color:rgb(59, 52, 54);
+    padding: 15px;
+}
+.container a {
+    color: white;
+    float :left;
+    font-size: 20px;
+    text-align: center;
+    padding:14px;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    
+
+}
+.container  li select option a {
+    float: left;
+    font-size: 20px;
+    text-align: center;
+}
+#select{
+    margin-top: 11px;
+    margin-left: 790px;
+    font-size: 17px;
+}
+
+a:hover{
+    cursor: pointer;
+    color: aqua;
+    transition: 0.2ms;
+
+}
+
+ li a{
+    text-decoration: none;
+    font-size:20px;
+
+}
+a:hover{
+    size: 40px;
+    cursor: pointer;
+}
+
+.first{
+    text-decoration: none;
+    color: rgb(56, 54, 54);
+    margin-top: 25px;
+}
+
+a:hover{
+    size: 20px;
+    color: brown;
+}
+
+h1{
+    text-align: center;
+    font-size: 40px;
+   
+    text-decoration:underline;
+    margin-top: 30px;
+    
+}
+
+.about{
+    margin-top: 60px;
+    display: flex;
+    gap:25px;
+}
+
+.child{
+    margin-left: 200px;
+    box-sizing: border-box;
+   
+}
+.child1{
+    box-sizing: border-box;
+    width: 35%;
+
+}
+p{
+    margin-top: 20px;
+    text-indent: 1px;
+    text-align: justify;
+}
+button{
+    border: 0px #007BFF;
+    color: rgb(198, 192, 196);
+    background-color:#007BFF;
+    border-radius: 5px;
+}
+button:hover{
+    cursor: pointer;
+
+}
+h2{
+    padding-top: 50px;
+    text-rendering: unset;
+    text-align: center;
+    margin-top: 50px;
+    font-size: 40px;
+    text-decoration: underline;
+}
+
+.card1{
+    margin-left: 300px;
+    column-gap: 40px;
+    margin-top: 50px;
+    display: flex;
+    gap: 20px;
+}
+.contact{
+    margin-top: 30px;
+    box-sizing: border-box;
+    border: 1px solid #007BFF;
+    background-color: #007BFF;
+    width: 100%;
+    height:30vh;
+}
+.contact1{
+    text-align: center;
+}
+h3{
+    font-size: 56px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 40px;
+    color: aliceblue;
+    text-align: center;
+}
+.contact2{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:white;
+    font-style: unset;
+}
+
+.call{
+    margin-top: 10px;
+    margin-left: 700px;
+    color: rgb(38, 36, 36);
+    background-color:#FFC107;
+    padding: 8px;
+}
+.call:hover{
+    cursor: pointer;
+    transition: 0.1ms;
+    /* padding-right: 25px; */
+    opacity: 0.8;
+}
+h4{
+    margin-top: 45px;
+    text-align: center;
+    font-size: 36px;
+}
+.gallery{
+    margin-left: 320px;
+    margin-top: 45px;
+    display: flex;
+    gap:60px;
+}
+.gallery1{
+    margin-left: 320px;
+    margin-top: 45px;
+    display: flex;
+    gap:60px;
+
+}
+.gallery2{
+    margin-left: 320px;
+    margin-top: 45px;
+    display: flex;
+    gap:60px;
+}
+
+.join{
+    margin-left: 660px;
+    margin-top: 50px;
+    width: 200px;
+    height: 40vh;
+}
+footer p{
+    margin-top: 20px;
+    background-color:#343A40;
+    height: 20vh;
+    width: 100%;
+    text-align: center;
+}
