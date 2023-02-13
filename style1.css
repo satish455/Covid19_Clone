@@ -1,4 +1,5 @@
 a{
+    color: aliceblue;
     text-decoration: none;
 }
 ul li{
@@ -61,7 +62,6 @@ h1{
     text-align: center;
     font-size: 40px;
    
-    text-decoration:underline;
     margin-top: 30px;
     
 }
@@ -103,7 +103,7 @@ h2{
     text-align: center;
     margin-top: 50px;
     font-size: 40px;
-    text-decoration: underline;
+   
 }
 
 .card1{
@@ -188,4 +188,12 @@ footer p{
     height: 20vh;
     width: 100%;
     text-align: center;
+}
+
+div ul li a{
+    color: aliceblue;
+}
+hr{
+    width: 30%;
+    margin-left:35%;
 }
